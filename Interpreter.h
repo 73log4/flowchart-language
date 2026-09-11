@@ -1,0 +1,13 @@
+//
+// Created by benji on 9/11/26.
+//
+
+#ifndef FLOWCHART_LANGUAGE_FLOWCHARTGRAPH_H
+#define FLOWCHART_LANGUAGE_FLOWCHARTGRAPH_H
+
+
+class FlowChartGraph {
+};
+
+
+#endif //FLOWCHART_LANGUAGE_FLOWCHARTGRAPH_H
