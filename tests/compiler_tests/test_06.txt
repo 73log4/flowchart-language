@@ -1,0 +1,4 @@
+# banned names
+
+if = "a"
+print if

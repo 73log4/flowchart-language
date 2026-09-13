@@ -1,0 +1,9 @@
+# undeclared variable error
+
+B = "Hi"
+print B
+input B
+print B
+if B ? ""
+    BC = "Bug!"
+print BC

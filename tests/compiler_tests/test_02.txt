@@ -1,0 +1,8 @@
+# indentation error
+
+A = "a"
+
+if A ? "a.*"
+    print "Hi"
+    else
+        print "Bug!"

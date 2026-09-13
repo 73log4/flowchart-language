@@ -1,0 +1,6 @@
+# string buggg
+
+A = "start
+print \"end"
+
+print A

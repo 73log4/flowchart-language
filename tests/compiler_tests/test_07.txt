@@ -1,0 +1,6 @@
+# exec errors
+
+A = "a"
+exec "cd no_such_dir {A}"
+
+

@@ -1,0 +1,7 @@
+# if errors
+
+A = "a"
+else
+    print "Bug"
+if A ? ""
+    print "Hi"

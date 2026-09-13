@@ -1,0 +1,10 @@
+# if error
+
+A = "a"
+if A ? ""
+    if A ? ""
+        exec "echo {A}"
+else
+    print "Ok"
+    else
+        print "Bug!"

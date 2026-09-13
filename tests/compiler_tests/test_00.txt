@@ -1,0 +1,28 @@
+# good code - should run smoothly
+
+A   =    "a"
+B =     "b"
+C =         ""   
+input C
+
+print "A"
+print A
+
+if B ? ""
+    if B ? ""
+        if B ? ""
+            print "Hi"
+        print "Hi"
+        if B ? ""
+            print "Hi"
+        else
+            print "No Hi"
+else
+    print "Hi"
+
+exec "echo echo"
+exec "ls -l"
+
+print "\"print\""
+
+

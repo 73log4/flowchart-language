@@ -1,0 +1,3 @@
+# illegal command
+
+printt "Bug!"
